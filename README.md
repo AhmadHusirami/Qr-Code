@@ -2,13 +2,13 @@
 
 Built using React, this QRCode Generator is a user-friendly tool that allows users to effortlessly create QR codes for various purposes
 
-##### Live [qrcode.fabra.dev](https://qrcode.fabra.dev) on Vercel
+##### Live [qr-code-husirami.vercel.app](https://qr-code-husirami.vercel.app/) on Vercel
 
 ## 🚀 Getting Started
 
 + Clone this repository
 ```jsx
-git clone https://github.com/raminhuk/qr-code-generator.git
+git clone https://github.com/AhmadHusirami/Qr-Code.git
 ```
 + Enter the react-qrcode folder
 ```jsx
