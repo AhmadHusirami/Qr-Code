@@ -4,22 +4,21 @@ Built using React, this QRCode Generator is a user-friendly tool that allows use
 
 ##### Live [qrcode.fabra.dev](https://qrcode.fabra.dev) on Vercel
 
-
 ## 🚀 Getting Started
 
-+ Clone este repositório 
++ Clone this repository
 ```jsx
 git clone https://github.com/raminhuk/qr-code-generator.git
 ```
-+ Entre na pasta react-qrcode
++ Enter the react-qrcode folder
 ```jsx
 cd qr-code-generator
 ```
-+ Execute npm install para instalar as dependências 
++ Run npm install to install the dependencies
 ```jsx
 npm install
 ```
-+ Execute npm run dev para rodar o projeto em http://localhost:3000/
++ Run npm run dev to run the project on http://localhost:3000/
 ```jsx
 npm run dev
 ```
